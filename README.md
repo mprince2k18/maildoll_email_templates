@@ -1,3 +1,5 @@
+![](https://mprince2k18.github.io/maildoll_email_templates/email_templates.png)
+
 ![](https://codecanyon.softtechitltd.com/maildoll/promo-3.gif) ![](https://codecanyon.softtechitltd.com/maildoll/dis-1.jpg)
 
 We are announcing that the SaaS version of "Maildoll is an Email & SMS Marketing application" has been released for cPanel users. The SaaS version is only available under an extended license.  
